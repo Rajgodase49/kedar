@@ -1,4 +1,4 @@
-import { addformdata } from "./Action";
+import { addformdata,APITOSTORE } from "./Action";
 
 
 
@@ -10,3 +10,10 @@ const addsignupdata=(data)=>{
 }
 
 export default addsignupdata
+
+export const apitostore =(data)=>{
+    return{
+        type:APITOSTORE,
+        payload:data
+    }
+}

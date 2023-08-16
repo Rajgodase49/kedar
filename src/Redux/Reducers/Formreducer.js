@@ -1,6 +1,6 @@
 import { addformdata } from "../Action/Action";
 
-const ini =[];
+
 
 const formreducer=(state=[],{type,payload})=>{
     switch(type){
