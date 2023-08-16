@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kedar/static/css/main.073c9b0a.css",
+    "main.js": "/kedar/static/js/main.1dec1f94.js",
+    "index.html": "/kedar/index.html",
+    "main.073c9b0a.css.map": "/kedar/static/css/main.073c9b0a.css.map",
+    "main.1dec1f94.js.map": "/kedar/static/js/main.1dec1f94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1dec1f94.js"
+  ]
+}
